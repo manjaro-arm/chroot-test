@@ -1,9 +1,12 @@
 Installer options:
-username
-password
-environment (to download)
-hostname
-locale
+* username
+* password
+* environment to download (can support both manjaro and archlinux)
+* hostname
+* locale/language
+* time-zone
+* partitioning?
+* keyboard layout?
 
 Using chroot from glibc: http://linux.die.net/man/2/chroot
 
