@@ -17,3 +17,5 @@ https://wiki.debian.org/QemuUserEmulation
 http://wiki.qemu.org/Testing/LTP
 
 http://unix.stackexchange.com/questions/41889/how-can-i-chroot-into-a-filesystem-with-a-different-architechture
+
+Test result: using chroot with C/C++ was successful
